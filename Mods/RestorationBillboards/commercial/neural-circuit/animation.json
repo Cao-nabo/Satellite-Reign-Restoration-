@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "atlas": "atlas.png",
+  "columns": 8,
+  "rows": 8,
+  "frames": 64,
+  "frame_seconds": 0.05203125,
+  "width": 1024,
+  "height": 512,
+  "rgba_bytes": 2097152,
+  "input_frames": 37,
+  "loop_seconds": 3.33,
+  "source_loop_seconds": 3.33,
+  "order": "left-to-right, top-to-bottom",
+  "audio": false,
+  "category": "commercial",
+  "scanlines": true,
+  "square_atlas": "atlas-square.png",
+  "square_rgba_bytes": 4194304
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "atlas": "atlas.png",
+  "columns": 4,
+  "rows": 4,
+  "frames": 16,
+  "frame_seconds": 0.195,
+  "width": 1024,
+  "height": 512,
+  "rgba_bytes": 2097152,
+  "input_frames": 26,
+  "loop_seconds": 3.12,
+  "order": "left-to-right, top-to-bottom",
+  "audio": false
+}

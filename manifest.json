@@ -1,0 +1,39 @@
+{
+  "core_assembly_sha256": "3a650a9c0b92e1a4fb715aae672d122aefbe85595e0b522f433a7f506a308206",
+  "mods_sha256": {
+    "SRRestoration.dll": "b633f2c10e4c1da85238191628fde99bd193a37af5170d2d6de88df186289d15",
+    "SRObjectivePreflight.dll": "8e4070a9bcf106273ab173efcb0a73ee18ea6fe7041e950203b9ee8dc6f4698e",
+    "RestorationBillboards/akira/atlas.png": "bbd000a9389134cd2c5bbfcd3543d54443bbc14d57e29db68eabe056b991ba3c",
+    "RestorationBillboards/akira/animation.json": "19bd8956097f08bbeacb1a0695935e411a6e48747d5f2736aa4bedb6f14640b5",
+    "RestorationBillboards/movies/batou-ghost-in-the-shell/atlas-square.png": "2f9bbbfc36ae8b601df1e95ce445d5451b267b2c2a61670a59db9ef2edb455cf",
+    "RestorationBillboards/movies/batou-ghost-in-the-shell/atlas.png": "9d6b301d649382f9a090c5d1fca6a6a9e62c9ef704fff2818ac8b26226ee4820",
+    "RestorationBillboards/movies/batou-ghost-in-the-shell/animation.json": "161e66e3ea3c37d5913f98d94d209cded11e3c00cb67b1bf323e0f3e39737012",
+    "RestorationBillboards/movies/batou-ghost-in-the-shell/clip.xml": "a80893bfd4f56d29370142be56966ff254129a1ab450f5aaa87a4b99a487990f",
+    "RestorationBillboards/movies/neon-rain/atlas-square.png": "3094f4d2fd7b3fd29c96371b79d71738f2758712459383abd7b557efd38f9289",
+    "RestorationBillboards/movies/neon-rain/atlas.png": "dbcd422d5a8650a22ee7227e687262ed66f00d5c7b4f098fc12abcd4534ee7ab",
+    "RestorationBillboards/movies/neon-rain/animation.json": "4b2b43c2d9e3a3064f4b7c639a070ed2353521f599d0d2d46d6f159b65e00ffa",
+    "RestorationBillboards/movies/neon-rain/clip.xml": "10e8f7bac2d9de54c8831f3e1ec579ad7352213b1af105eaf88c61eb524c973f",
+    "RestorationBillboards/movies/akira/atlas-square.png": "0190710694a71803dc34d180bdae4254d436b622434f6d36ffbc75ff2db78f12",
+    "RestorationBillboards/movies/akira/atlas.png": "1f514946dd65c4cf0a120fd0d1463b551d8bc5cb4426bc33bb34fd88c554136e",
+    "RestorationBillboards/movies/akira/animation.json": "456196dd9a41bce1384f134c05b01c7ae699a966c5066b4af849d62749d08245",
+    "RestorationBillboards/movies/akira/clip.xml": "3d89160c73112dc836b4ef63d8730ae2f4657b7c7521f4a82527c38d66570eec",
+    "RestorationBillboards/movies/akira-manga/atlas-square.png": "146b54db221d6d1fee0f971b8cc221ab4634b6e186c6da0eeb07f9720443de3b",
+    "RestorationBillboards/movies/akira-manga/atlas.png": "e7de0b6daa6bcee1abe58a864eaf0dc38ebbd0252615038e818ffb531253678a",
+    "RestorationBillboards/movies/akira-manga/animation.json": "c854548076d781eef38b00c0e73b6f6f38a1f239ce5d32c2cf759f261d6048c6",
+    "RestorationBillboards/movies/akira-manga/clip.xml": "52838b3fb8f876e985b1f8e91d72fd404bb91c53cd1a4dc6970cfeaee43bcab7",
+    "RestorationBillboards/movies/tetsuo-glow/atlas-square.png": "2a30db014fa03642b6c6ffb64e5cd5727a66dbd000b449cd98027c69222e8c39",
+    "RestorationBillboards/movies/tetsuo-glow/atlas.png": "3ff596f16c9642d0c228aa4a24f2c74596c598d7253a9b22a1e12542e277ee02",
+    "RestorationBillboards/movies/tetsuo-glow/animation.json": "250aca1a6fed4c6e5335e58aa2cc7928380aedceba8237bbc1a8ef37389efee4",
+    "RestorationBillboards/movies/tetsuo-glow/clip.xml": "fe3e87e72e2a5b25486899537fce4061f1a89a22b5f3aa7a43f62171e7f59bc0",
+    "RestorationBillboards/commercial/neural-circuit/atlas-square.png": "d45527a5a4d1025f56cec9fad16e8d4827d67dd8f1d5ce5b1dae49587fd339b4",
+    "RestorationBillboards/commercial/neural-circuit/atlas.png": "31a11ac02af93b71e77d201471e73ba0aefd2043788a16178f89f3aea038f952",
+    "RestorationBillboards/commercial/neural-circuit/animation.json": "658b46c25cdd37e1f852bd8273d0f6393f67600d7ce251e31f635c7bf24e3345",
+    "RestorationBillboards/commercial/neural-circuit/clip.xml": "53601023c5d35d55f0bf50a22c8edbc8c1574a2e2217cd9ada508360f417dc1c"
+  },
+  "excluded_experimental_sources": [
+    "AreaPackage.cs",
+    "RestorationAreaCompatibilityProof.cs",
+    "RestorationAreaLoader.cs",
+    "RestorationUndergroundRoom.cs"
+  ]
+}
