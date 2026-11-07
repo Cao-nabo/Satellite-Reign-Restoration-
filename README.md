@@ -55,8 +55,10 @@ Open the settings panel (**F7**) and use the taxi option to open the Taxi panel.
 - **Pickup is not limited to fixed taxi stands.** Call a taxi from wherever your agent currently is — the game finds the nearest reachable curb/street to your actual position. If you get "No short, reachable pickup on this street," move a little closer to an actual road.
 - Press **Call taxi**. It drives to the pickup point near you; board when it arrives (walk up, or use the **`** key described above).
 - **The whole squad can ride together** — up to 4 agents. Select multiple agents before calling, or have each one walk up and board individually once the cab arrives; they'll all be picked up as a team (boarding waits for everyone before the taxi leaves).
+- **Group boarding is per-agent.** If you select the whole squad and click the taxi while one agent isn't ready yet (too far, still finishing another action), the rest still board — only the unready one is skipped, with a status message telling you to bring it closer and click again.
+- **Parked cars or other obstructions blocking the walk to the taxi door are recoverable.** Move the blocked agent(s) out of the way and reselect/click the taxi again — the booking stays alive instead of cancelling the whole trip.
 - Once seated, **destinations are landmark-based** — cycle through known city locations (plus any unlocked relay-beacon landmarks) with the `<`/`>` buttons, then press **Travel**. A flat fare (25, or 75 for the luxury car) is charged once travel starts.
-- **Safe exit** / **Cancel booking** are available if you change your mind or need to bail early.
+- **Cancel booking** stops the taxi and automatically exits the whole team once it's safely stopped — no separate Safe exit press needed. **Safe exit** is also available on its own if you just want out without cancelling the destination.
 
 ## Using agent behavior policies
 

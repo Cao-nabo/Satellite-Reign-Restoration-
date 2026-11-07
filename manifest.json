@@ -1,8 +1,8 @@
 {
   "core_assembly_sha256": "3a650a9c0b92e1a4fb715aae672d122aefbe85595e0b522f433a7f506a308206",
   "mods_sha256": {
-    "SRRestoration.dll": "b633f2c10e4c1da85238191628fde99bd193a37af5170d2d6de88df186289d15",
-    "SRObjectivePreflight.dll": "8e4070a9bcf106273ab173efcb0a73ee18ea6fe7041e950203b9ee8dc6f4698e",
+    "SRRestoration.dll": "f5a529fafea1d341ffe81bdefeb54a141c1e43f97ab2d9c8a8976f4a6f352b1a",
+    "SRObjectivePreflight.dll": "803f83435bdb88c1a9ca665bcdb90b12b543548de7f2e8cbfbf36fcc500a3d84",
     "RestorationBillboards/akira/atlas.png": "bbd000a9389134cd2c5bbfcd3543d54443bbc14d57e29db68eabe056b991ba3c",
     "RestorationBillboards/akira/animation.json": "19bd8956097f08bbeacb1a0695935e411a6e48747d5f2736aa4bedb6f14640b5",
     "RestorationBillboards/movies/batou-ghost-in-the-shell/atlas-square.png": "2f9bbbfc36ae8b601df1e95ce445d5451b267b2c2a61670a59db9ef2edb455cf",
