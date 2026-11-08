@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestorationArea version="1">
+  <Id>market-room-proof</Id>
+  <UnityVersion>5.3.5f1</UnityVersion>
+  <Platform>Windows32</Platform>
+  <BundleFile>market-room-proof.bundle</BundleFile>
+  <Sha256>7f85521c486bad6d95ec8fb9337ab2a4577f0c2e62c7627a22920e8407afd4fe</Sha256>
+  <ScenePath>Assets/RestorationAreas/MarketRoomProof.unity</ScenePath>
+  <RootName>SR_AreaProof</RootName>
+  <Bounds>
+    <Center x="600" y="-38.5" z="800" />
+    <Size x="19" y="5" z="15" />
+  </Bounds>
+  <FloorPath>Floor</FloorPath>
+  <NavigationProbes>
+    <Point x="600" y="-39.99" z="794.5" />
+    <Point x="595" y="-39.99" z="802" />
+    <Point x="605" y="-39.99" z="802" />
+  </NavigationProbes>
+</RestorationArea>
